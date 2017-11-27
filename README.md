@@ -1,4 +1,5 @@
-#Page Rank Algorithm Implementation
+Page Rank Algorithm Implementation
+-----------------------------------------------------------------------------------------
 
 This is a read me document for the assignment 3 and explains all the files involved.
 
